@@ -7,4 +7,4 @@
 //add commit
 let a=b;
 console.log(stash)
->>>>>>> Stashed changes
+
